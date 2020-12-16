@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">TicTacToe</string>
+    <string name="Heading">Made by Aman Verma</string>
+    <string name="grid">Our main grid</string>
+    <string name="nameam">\@Aman Verma</string>
+    <string name="status">status</string>
+    <string name="heading">heading</string>
+    <string name="statuss">X\'s Turn - Tap to play</string>
+</resources>
